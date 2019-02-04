@@ -1,0 +1,3 @@
+[submodule "terraform"]
+	path = terraform
+	url = git@github.com:rinjin5th/terraform-test.git
